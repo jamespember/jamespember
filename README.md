@@ -18,7 +18,7 @@ You can learn more about me on [my personal website](https://jamespember.com), m
   - [Taught myself to code](https://medium.com/@jamesepember/from-a-blinking-cursor-to-paying-customers-in-90-days-42dd2638732d), enough to build a prototype and raise some money for my first startup.
   - Raised money from executives at [Spotify and Facebook](https://techcrunch.com/2015/02/23/sparta-funding/).
   - [Sold that startup (Sparta) to Europe's biggest CRM company](https://www.mynewsdesk.com/monterro/pressreleases/lime-sharpens-their-offer-with-yet-another-acquisition-2997748). Helped integrate the two products ahead of a successful IPO.
-  - Led transformation of Reason Studios from a stagnant perpetual revenue business model into a high-growth SaaS prosumer business.
+  - Led transformation of Reason Studios from a stagnant perpetual revenue business model into a [high-growth SaaS prosumer business](https://www.reasonstudios.com/news/post/introducing-reason-plus?srsltid=AfmBOoplYEYs-VUakhYuAomBlWKcW6q79CxKgGFkk31babTNnJGK6EUS).
   - I, with 3 friends, started one of [Sweden's most visited startup industry blogs, before selling it to a competitor in 2015](https://www.breakit.se/artikel/1252/breakit-forvarvar-swedish-startup-space-okar-takten-pa-engelska).
   - Fun fact: I was part of a small 3 person team that produced a [viral campaign video that hit 1M+ YouTube views](https://www.youtube.com/watch?v=IfiFr4MU9cE).
 - [Check out my Career Portfolio for a full list of work I've done](https://jamespember.com/portfolio).
