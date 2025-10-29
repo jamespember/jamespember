@@ -43,6 +43,7 @@ Here are a few favourites of mine:
 - [AI for PMs](https://pm-ai-course.com/) - Web app helping PMs learn AI, machine learning, and LLMs. Week-by-week guide with reading, quizzes, and practical activities.
 - [Daily Affirmations](https://daily-affirmations.jameselliotpember.workers.dev/) - Small app that emails a positive affirmation every morning. A fun way to rewire the brain for positivity and optimism. Built with Cloudflare Workers.
 - [Substack Link Hover](https://substack-link-hover.pages.dev/) - Chrome extension that provides instant previews of Substack links with optional AI-powered summaries. Hover over any Substack link to see instant previews or click to view all links on a page.
+- [Quotable]([url](https://quotable-dys.pages.dev/)) - Simple web app for turning quotes or excerpts into beautiful images, ready-to-share. 
 
 ### Citations
 
