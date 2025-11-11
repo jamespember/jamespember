@@ -1,6 +1,6 @@
 ## Hi, I'm James!
 
-- 🏗️ Experienced senior product leader and builder and former founder with 10+ years of experience building and scaling SaaS businesses. 
+- 🏗️ Experienced senior product leader/builder and former founder with 10+ years of experience building and scaling SaaS businesses. 
 - 🇦🇺 I live in Perth, Western Australia. 
 
 **Things I believe:**
